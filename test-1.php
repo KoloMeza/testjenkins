@@ -35,4 +35,4 @@ FLUSH PRIVILEGES;
 
 docker run -d --name tienda306blog-db-1 -e MYSQL_ROOT_PASSWORD=root -p 36525:3306 mysql:latest
 
-este es un cambio asdfasdfasdf
+este es un cambio 
